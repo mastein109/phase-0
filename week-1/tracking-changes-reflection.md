@@ -11,7 +11,7 @@ The three stages of a git change are add, commit, and push. When you add in git,
 ##Write a handy cheatsheet of the commands you need to commit your changes?
 ###1. git commit -m "Type message including changes in imperative form here"
 to create a commit message
-###2. git diff
+###2. git log
 to show what you have changed in the repo before you stage and commit
 ###3. git commit
 to commit your changes
