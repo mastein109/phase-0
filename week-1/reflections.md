@@ -4,34 +4,51 @@ The productivity and time management ideas that interested me most were the Pomo
 
 # 1.2 The Command Line
 
-1. Simply put, a shell is a macro processor that executes commands and “Bash” is one of the many shells used that is used to interpret command language.
-3. The most challenging part about learning the command line was connecting the different terminology and realizing how each command works together.
-3. I was successfully able to explore and use each command.
-4. The most important commands, to me, are “pwd” and “man.” Print working directory allows you to look at the directory in which you are inside at any given time and the manual is a resource for what each and every command does.
-5. Commands
-	-pwd: print working directory
-	-ls: list directory
-	-mv: move directory
-	-cd: change directory
-	-../: move “up” in path
-	-touch: make a new file
-	-mkdir: make a new directory
-	-less: page through file one screen at a time
-	-rmdir: remove a directory (*may run into error if directory is not empty)
-	-rm: remove a file
-	-help: acces help screen, which defines each command
+Simply put, a shell is a macro processor that executes commands and “Bash” is one of the many shells used that is used to interpret command language.
+The most challenging part about learning the command line was connecting the different terminology and realizing how each command works together.
+I was successfully able to explore and use each command.
+The most important commands, to me, are “pwd” and “man.” Print working directory allows you to look at the directory in which you are inside at any given time and the manual is a resource for what each and every command does.
+Commands
+            -pwd: print working directory
 
-#1.3 Forking and Cloning
+            -ls: list directory
 
-•	Write an explanation of and compare git and GitHub to one another.
-	git is a version control service that is locally on your computer
-	GitHub is a hub that allows you to “push” or share your work online that can be accessed remotely.
-•	Explain what version control is and how GitHub helps with it.
-	Version control allows for changes to be made without overwriting previous work. In addition, it tracks changes 	and shows revisions made. GitHub helps version control by allowing projects to be shared and accessed 	remotely by anyone.
-•	Why do developers use version control (git)?
-	Developers use git to prevent mistakes and accidental destruction of a project. Version control allows developers 	to work in real time with real data without affecting other developer’s work on the same project. Also, it shows 	who made changes to what and keeps the master file updated.
-•	What is a commit?
-	A commit is where a developer displays a message of what they have changed and where.
+            -mv: move directory
+
+            -cd: change directory
+
+            -../: move “up” in path
+
+            -touch: make a new file
+
+            -mkdir: make a new directory
+
+            -less: page through file one screen at a time
+
+            -rmdir: remove a directory (*may run into error if directory is not empty)
+
+            -rm: remove a file
+
+            -help: acces help screen, which defines each command
 
 
+# 1.4 Forking and Cloning
 
+If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?
+-Create a new repo
+Log on to GitHub.com
+2. Navigate to top right ‘+’ symbol (Create new)
+3. Choose “New Repository”
+4. Name your repository 
+5. Click on the green button that says “Create Repository”
+-Fork a repo
+1. Navigate to your GitHub profile and choose which repo you would like to fork
+2. Navigate to the top right and click button “Fork” 
+3. Choose where you would like to fork this repo to
+-Clone a repo
+1. Choose the repository you would like to clone
+2. Navigate to “HTTPS” and copy the url 
+3. Open your terminal and enter command: git clone PASTEURL
+*May prompt you for Github username and password
+What struggles did you have setting up git and GitHub? What did you learn in the process?
+-I learned to create, clone, and fork repositories on my already established GitHub account.
