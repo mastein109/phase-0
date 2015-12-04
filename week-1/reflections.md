@@ -32,4 +32,23 @@ Commands
             -help: acces help screen, which defines each command
 
 
-# 1.3 Forking and Cloning
+# 1.4 Forking and Cloning
+
+If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?
+-Create a new repo
+Log on to GitHub.com
+2. Navigate to top right ‘+’ symbol (Create new)
+3. Choose “New Repository”
+4. Name your repository 
+5. Click on the green button that says “Create Repository”
+-Fork a repo
+1. Navigate to your GitHub profile and choose which repo you would like to fork
+2. Navigate to the top right and click button “Fork” 
+3. Choose where you would like to fork this repo to
+-Clone a repo
+1. Choose the repository you would like to clone
+2. Navigate to “HTTPS” and copy the url 
+3. Open your terminal and enter command: git clone PASTEURL
+*May prompt you for Github username and password
+What struggles did you have setting up git and GitHub? What did you learn in the process?
+-I learned to create, clone, and fork repositories on my already established GitHub account.
