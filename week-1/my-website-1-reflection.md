@@ -13,16 +13,18 @@ https://github.com/mastein109/mastein109.github.io.git
 
 #Describe what open source means.
 
-Open source means that anyone can work, edit, and modify a blueprint via a free license, remotely.
+Open source means that anyone can work, edit, and modify a program via a free license, remotely.
 
 #What do you think about Open Source? Does it make you nervous or protective? Does it feel like utopia?
 
-Open source is a great tool for developers since it opens up the world of code and diversifies input. However, it is a little nerve wrecking since it allows ANYONE to edit source code, which could cause potential destruction of code.
+Open source is a great tool for developers since it opens up the world of code and allows for anyone to contribute to a product. However, it is a little nerve wrecking since it allows ANYONE to edit source code, which could cause potential loss of control over a program.
 
 #Assess the importance of using licenses.
 
-
+It is important for a developer to understand which license they are working with. Licensing allows others to use your work and contribute to it without being granted permission. Licenses generally protect you as the original creator.
 
 #What concepts were solidified in the challenge? Did you have any "aha" moments? What did you struggle with?
+
+After working on the challenges, I was able to understand exactly what the push and pull commands were doing within the repositories. At first I struggled with committing and merging the files, but after a lot of practice was able to understand exactly what was happening, step by step.
 
 #Did you find any resources on your own that helped you better understand a topic? If so, please list it.
