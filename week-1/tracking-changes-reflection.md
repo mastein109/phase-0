@@ -17,7 +17,7 @@ to show what you have changed in the repo before you stage and commit
 to commit your changes
 ###4. git push
 to share changes remotely
-What is a pull request and how do you create and merge one?
+##What is a pull request and how do you create and merge one?
 A pull request is used to merge changes into your master branch. Once you have pushed your changes, you compare and pull request on remote branch, say what you have changed and create pull request to make a page that can be worked on by several developers without affecting your work. Next, you can merge your changes to the master and delete your working branch. 
-Why are pull requests preferred when working with teams?
+##Why are pull requests preferred when working with teams?
 Pull requests allow developers to view the changes different developers have made before permanently changing the master file. 
