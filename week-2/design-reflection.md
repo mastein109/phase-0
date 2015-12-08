@@ -20,8 +20,7 @@ Regularly review and update website to fit users' needs.
 ##What is your site's primary goal or purpose? What kind of content will your site feature?
 ####The primary goal or purpose of my site is to make it appeasing to the eye, informative, and user-friendly. Although I will not be selling a product, I will in a way be 'selling' myself to employers and viewers of my site. I hope to share information about myself and my journey to becoming a developer. My main goal is to make sure my site is up to date, functional, and representative of myself. 
 
-Here is a simple example of my personal 
-<a href="site-map.png">Site Map</a>
+Here is a simple example of my personal ![Site Map](/week-2/imgs/site-map.png)
 
 ##What is your target audience's interests and how do you see your site addressing them?
 My target audience would be the employer's that I am marketing myself to. I want my site to be interactive, while informative and easy to use. I want to address them in an impressionable and professional manner. 
