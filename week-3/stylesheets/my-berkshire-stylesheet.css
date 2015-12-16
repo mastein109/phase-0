@@ -1,0 +1,85 @@
+html {
+  background-color: #ffffff;
+  color: #000080;
+}
+
+span {
+  font-size: 30px;
+}
+
+div {
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+}
+
+
+.address {
+  font-size: 14px;
+  width: 200px;
+  margin: auto;
+}
+
+.last {
+  font-size: 16px;
+}
+
+.line {
+  border-bottom: 1px solid gray;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  clear: both;
+}
+
+a:link {
+  color: #800080;
+  font-size: 12px;
+}
+
+a:visited {
+  color: #ff0000;
+}
+
+li {
+  font-size: 7px;
+}
+
+ul {
+  width: 100%;
+  display: block;
+}
+
+ul li {
+  float: left;
+  width: 50%;
+  
+}
+
+img {
+  display: block;
+  margin-left: 50%;
+  margin-right: 50%;
+}
+
+.contact {
+  font-size: 13px;
+  text-align: center;
+  margin: auto;
+}
+
+#copyright {
+  font-size: 10px;
+}
+
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+What CSS did you use to modify the element style (like size, color, etc.)
+
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+*/
