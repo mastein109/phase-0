@@ -73,13 +73,18 @@ img {
 
 /*
 What is important to know when linking an external file (like a stylesheet) to an HTML file?
+It is important to be careful when declaring the attributes. You must include the type, rel, and href attributes. Be sure to copy the external stylesheet file exactly as it is in the href attribute, so your files link properly.  
 
 What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+As for positioning, I like to take an educated guess from what I am looking at and then I utilize trial and error. The most challenging part for this specific webpage was the positioning for the bulleted or unordered list. 
 
 What CSS did you use to modify the element style (like size, color, etc.)
+I used different classes and ids in order to modify each element and add style to specified parts of my code. 
 
 Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+For specific styles that were going to be exactly the same for two separate parts, I used classes. In addition, when there were pieces of HTML that were being styled once, I used ids.
 
 When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+The actual code base was definitely cleaner compared to my site's code. However, I believe my code was not as tidy partly because we created the basic code without considering CSS at first. 
 
 */
