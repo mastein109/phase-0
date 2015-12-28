@@ -15,11 +15,15 @@ hours = 24
 days = 365
 hours_in_a_year = hours * days
 puts hours_in_a_year
+8760
+=> nil
 ```
 
 ##Minutes in a decade
 ```ruby
 decade = 10
 minutes = 60
-print hours_in_a_year * minutes * decade
+puts hours_in_a_year * minutes * decade
+5256000
+=> nil
 ```
