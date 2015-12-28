@@ -21,5 +21,5 @@ puts hours_in_a_year
 ```ruby
 decade = 10
 minutes = 60
-puts hours_in_a_year * minutes * decade
+print hours_in_a_year * minutes * decade
 ```
