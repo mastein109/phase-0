@@ -1,5 +1,5 @@
 ##What does puts do?
-Puts is a Ruby command that prints the output to the console with a new blank line following. 
+Puts is a Ruby command that prints the output to the console with a new blank line following.
 
 ##What is an integer? What is a float?
 An <b>integer</b> is any whole number from -infinity to infinity. For example, an integer could be 4, 8, -1,0000, -456, etc.
@@ -27,3 +27,15 @@ puts hours_in_a_year * minutes * decade
 5256000
 => nil
 ```
+
+##How does Ruby handle addition, subtraction, multiplication, and division of numbers?
+Ruby uses operator signs to compute addition, subtraction, multiplication, and division of numbers. The operator signs are generally the same as you would see written, such as addition (+), subtraction (-), multiplication (*), and division (/). The only difference is that Ruby will output your answser, the same as your input, unless you tell the interpreter to do otherwise.
+
+##What are strings? Why and when would you use them?
+Strings are characters, such as letters or words, enclosed in single quotations. Strings are used when printing, inputing, and returning sentences, words, or letters.
+
+##What are local variables? Why and when would you use them?
+Local variables are variables that begin with a lower case or underscore. They are defined and accessed only within the block of initialization.
+
+##How was this challenge? Did you get a good review of some of the basics?
+This challenge was somewhat simple for me only because I had done my mandatory pairing and GPS sessions previously, due to a busy schedule. However, it was good to go back to the basics that I had learned in codeacademy as a refresher.
