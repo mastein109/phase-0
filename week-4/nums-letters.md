@@ -39,3 +39,13 @@ Local variables are variables that begin with a lower case or underscore. They a
 
 ##How was this challenge? Did you get a good review of some of the basics?
 This challenge was somewhat simple for me only because I had done my mandatory pairing and GPS sessions previously, due to a busy schedule. However, it was good to go back to the basics that I had learned in codeacademy as a refresher.
+
+##Links to Exercises
+Defining Variables:
+https://github.com/mastein109/phase-0/blob/master/week-4/defining-variables.rb
+
+Simple String Methods:
+https://github.com/mastein109/phase-0/blob/master/week-4/simple_string.rb
+
+Local Variables and Basic Arithmetical Operations:
+https://github.com/mastein109/phase-0/blob/master/week-4/basic-math.rb
