@@ -1,4 +1,3 @@
-
 def acc_group(array)
   group_size = 0
   amt_groups = 0
