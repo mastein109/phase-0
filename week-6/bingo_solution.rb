@@ -82,7 +82,43 @@ end
 
 
 # Refactored Solution
+class BingoBoard
 
+  #set instance variables for variables that will be reused across methods
+  def initialize(board)
+    @bingo_board = board
+    @letters = ["B", "I", "N", "G", "O"]
+  end
+
+  #print board and change array to strings without commas and quotation marks
+  def display
+    puts "[B   I   N   G   O]"
+    for i in 0..4
+      print @bingo_board[i].to_s.gsub('"', ' ').gsub(',', '')
+      puts #newline
+    end
+  end
+
+  #call random letter(index 0,1,2,3,4) and number(1-100)
+  def call
+    @call_letter = @letters[rand(4)]
+    @call_number = rand(99)+1
+    puts "#{@call_letter}#{@call_number}!"
+  end
+
+  def check
+    index = @letters.index(@called_letter)
+    #clean up code from initial solution
+
+    #replace number with X on board if it exists
+    for num in 0..4 do
+      if @bingo_board [num][index] == @call_number
+        puts "This number exists on your board!"
+        @bingo_board [num][index] = "X "
+      end
+    end
+  end
+end
 
 
 #DRIVER CODE (I.E. METHOD CALLS) GO BELOW THIS LINE
@@ -118,4 +154,7 @@ Give an example of a new method you learned while reviewing the Ruby docs. Based
 
 How did you determine what should be an instance variable versus a local variable?
   I chose to declare instance variables for variables that would be reused in more than one method, such as bingo_board.
+
+What do you feel is most improved in your refactored solution?
+  My refactored solution is not significantly different from my initial solution. However, it is definitely cleaner and a litte bit more condensed.
 =end
