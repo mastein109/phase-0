@@ -12,7 +12,7 @@
 10. SELECT regions.region_name,states.state_name FROM states INNER JOIN regions ON states.region_id=regions.id ORDER BY regions.id ASC;
 ```
 
-![alt text](clueless_schema.png) "Clueless Schema")
+![alt text](clueless_schema.png "Clueless Schema")
 
 
 #Reflection
