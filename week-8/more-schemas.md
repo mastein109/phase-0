@@ -2,13 +2,13 @@
 
 ###One-to-One Relationship
 
-![alt text]("/phase-0/week-8/imgs/one-to-one.png" "One-to-One schema")
+![alt text](imgs/one-to-one.png "One-to-One schema")
 
 #####This relationship can be described as a one-to-one relationship because only one resident can have one driver license and only one driver license can be connected to one driver or resident.
 
 ###Grocery Lists
 
-![alt text]("/phase-0/week-8/imgs/one-to-many.png" "One-to-Many schema")
+![alt text](imgs/one-to-many.png "One-to-Many schema")
 
 #Reflection
 ###What is a one-to-one database?
